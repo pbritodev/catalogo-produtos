@@ -8,11 +8,11 @@ def healthcheck(_request):
     return JsonResponse({'status': 'ok'})
 
 urlpatterns = [
-    path('', healthcheck),  # Health check do EB retorna 200
+    path('', healthcheck),  
     path('admin/', admin.site.urls),
-    path('api/', include('produtos.urls')),
+    #path('api/', include('produtos.urls')),
 ]
 
-# Configuração para servir arquivos de mídia em desenvolvimento
+
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
