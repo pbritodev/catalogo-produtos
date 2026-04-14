@@ -4,7 +4,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-9xk@4f1z!2kq8v#3r9v$0l1m2n3p4q5r6s7t8u9v0w'
 
-DEBUG = True if os.getenv('DJANGO_DEBUG', 'True') == 'True' else False
+DEBUG = True
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -13,7 +13,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
+    'rest_framework',
     'produtos',  
 ]
 
