@@ -1,24 +1,35 @@
 # Virtual environment
 venv/
 .venv/
+env/
+ENV/
 
 # Python cache
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
 
 # Database (SQLite)
 db.sqlite3
+db.sqlite3-journal
 
 # Environment variables
 .env
+.env.*
 
 # Media (uploads de usuários)
 media/
 
 # Static files (collectstatic)
 staticfiles/
+
+# Logs
+*.log
 
 # IDEs
 .vscode/
