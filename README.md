@@ -90,7 +90,6 @@ Acesse o painel administrativo:
 
 ## Execução local
 
-bash
 pip install -r requirements.txt
 ---
 python manage.py migrate
