@@ -62,8 +62,7 @@ http://voltstore-env.eba-y5hshcp9.us-east-1.elasticbeanstalk.com/admin/
 ### Console RDS (instância ativa): <img width="1619" height="851" alt="image" src="https://github.com/user-attachments/assets/effece38-29b3-4ac0-ac73-6bb28511483c" />
 ### Console S3 (arquivos de mídia): <img width="1916" height="498" alt="image" src="https://github.com/user-attachments/assets/9fe63549-ba0c-40ba-baf8-51f03062522c" />
 ### Requisição da API criando/atualizando produto com mídia: <img width="1914" height="935" alt="image" src="https://github.com/user-attachments/assets/b0b114e9-339d-4443-8d7c-3115f0c14577" /> 
-<img width="1916" height="551" alt="image" src="https://github.com/user-attachments/assets/56545ef5-da31-401c-86d7-1c499fc4f88e" />
-### DJANGO Admin (login: admin senha: 123: <img width="1031" height="502" alt="image" src="https://github.com/user-attachments/assets/fa6aec9e-fa4f-4ff1-86eb-9f10a7de836a" />
+<img width="1916" height="551" alt="image" src="https://github.com/user-attachments/assets/56545ef5-da31-401c-86d7-1c499fc4f88e" /> ### DJANGO Admin (login: admin senha: 123: <img width="1031" height="502" alt="image" src="https://github.com/user-attachments/assets/fa6aec9e-fa4f-4ff1-86eb-9f10a7de836a" />
 
 
 
