@@ -57,6 +57,11 @@ http://voltstore-env.eba-y5hshcp9.us-east-1.elasticbeanstalk.com/admin/
 
 ---
 
+## Prints do funcionamento
+### URL pública da API funcionando: <img width="1917" height="571" alt="image" src="https://github.com/user-attachments/assets/bc3d56ed-b58c-4a4a-a75b-b12a0f18a03f" />
+
+---
+
 ## O que havia na AP1
 
 A primeira entrega contemplava uma API REST simples com dois recursos:
