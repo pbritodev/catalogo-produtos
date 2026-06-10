@@ -53,7 +53,7 @@ http://voltstore-env.eba-y5hshcp9.us-east-1.elasticbeanstalk.com/admin/
 | Campo | Valor |
 |-------|-------|
 | Usuário | `admin` |
-| Senha | `<PREENCHER ANTES DE ENTREGAR>` |
+| Senha | `123` |
 
 ---
 
