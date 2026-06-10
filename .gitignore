@@ -1,40 +1,8 @@
-# Virtual environment
 venv/
-.venv/
-env/
-ENV/
-
-# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
-
-# Database (SQLite)
+*.pyc
 db.sqlite3
-db.sqlite3-journal
+media/produtos/*
+!media/produtos/.gitkeep
 
-# Environment variables
 .env
-.env.*
-
-# Media (uploads de usuários)
-media/
-
-# Static files (collectstatic)
-staticfiles/
-
-# Logs
-*.log
-
-# IDEs
-.vscode/
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
